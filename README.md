@@ -1,2 +1,4 @@
 # DiscordC2
 Discord Token Deleter
+
+# I WILL BE USING THIS TO DELETE RATTERS DISCORD BOT TOKENS
